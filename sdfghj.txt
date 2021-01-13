@@ -1,3 +1,3 @@
   "username": "stink",
   "avatar_url": "https://cdn.discordapp.com/attachments/798989980277538878/798995244174803025/pens.jpg",
-  "content": stink.",
+  "content": stinky.",
